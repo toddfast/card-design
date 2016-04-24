@@ -1,1 +1,1 @@
-#target illustrator#include "lib/common-print-cards.jsx"$.strict = true;(function main() {	generatePrintableCardFiles({ cardDirectoryName: "example-cards-v0.1.0" });})();
+#target illustrator#include "lib/common-print-cards.jsx"$.strict = true;(function main() {	generatePrintableCardFiles({ 		cardDirectoryName: "example-cards-v0.1.0",		illustratorVersion: null	});})();
