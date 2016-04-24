@@ -1,0 +1,1 @@
+Store stock images/SVG/assets here
