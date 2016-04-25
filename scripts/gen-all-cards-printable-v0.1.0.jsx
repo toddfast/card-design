@@ -1,0 +1,1 @@
+#target illustrator#include "../lib/common-print-cards.jsx"$.strict = true;(function main() {	generatePrintableCardFiles({ 		cardDirectoryName: "example-cards-v0.1.0"//		,templateFile: "templates/template-cards-bridge-cut-8in12in-v2.ai"	});})();
