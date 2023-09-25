@@ -1,6 +1,6 @@
 # Adobe Illustrator Tools for Game Card Design
 
-The following repository helps you design game cards using Adobe Illustrator CC 2015, merge the design with data, and output individual card files as well as files ready to be cut on a Silhouette Curio.
+The following repository helps you design game cards using Adobe Illustrator CC 2015+, merge the design with data, and output individual card files as well as files ready to be cut on a Silhouette Curio.
 
 ## Scripting Documentation
 
